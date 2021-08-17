@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ExtraEdgeBackGesture</string>
+    <string name="xposed_not_enabled">App needs to be enabled in Xposed manager. Maybe you need a reboot</string>
+    <string name="enable_app">Enable App</string>
+</resources>
